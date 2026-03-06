@@ -117,13 +117,6 @@ fontWeight:500
 Registration Status
 </Link>
 
-<Link href="/admin" style={{
-textDecoration:"none",
-color:"#333",
-fontWeight:500
-}}>
-Admin
-</Link>
 
 {/* REGISTER BUTTON */}
 
