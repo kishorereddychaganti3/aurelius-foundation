@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import Footer from "../components/footer"
+//import Footer from "../components/footer"
 
 export default function HomePage() {
 
