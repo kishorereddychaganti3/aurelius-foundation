@@ -285,7 +285,7 @@ Register Now </a>
 
 </section>
 
-<Footer/>
+//<Footer/>
 
 </div>
 
