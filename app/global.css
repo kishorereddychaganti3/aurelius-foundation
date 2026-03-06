@@ -1,0 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
+nav a:hover {
+color: #1e3a8a;
+}
